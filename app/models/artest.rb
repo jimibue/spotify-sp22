@@ -1,2 +1,0 @@
-class Artest < ApplicationRecord
-end
